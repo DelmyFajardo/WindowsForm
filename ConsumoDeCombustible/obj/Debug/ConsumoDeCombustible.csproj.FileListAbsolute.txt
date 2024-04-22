@@ -1,0 +1,10 @@
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\bin\Debug\ConsumoDeCombustible.exe.config
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\bin\Debug\ConsumoDeCombustible.exe
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\bin\Debug\ConsumoDeCombustible.pdb
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.Form1.resources
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.Properties.Resources.resources
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.exe
+C:\Users\delmy\Desktop\windows form\ConsumoDeCombustible\obj\Debug\ConsumoDeCombustible.pdb
