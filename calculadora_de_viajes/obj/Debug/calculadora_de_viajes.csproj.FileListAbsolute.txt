@@ -1,0 +1,10 @@
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\bin\Debug\calculadora_de_viajes.exe.config
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\bin\Debug\calculadora_de_viajes.exe
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\bin\Debug\calculadora_de_viajes.pdb
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.Form1.resources
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.Properties.Resources.resources
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.exe
+C:\Users\delmy\Desktop\windows form\calculadora_de_viajes\obj\Debug\calculadora_de_viajes.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora_de_viajes", "calculadora_de_viajes.csproj", "{426550DA-F33E-4A53-9306-DB2032277042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426550DA-F33E-4A53-9306-DB2032277042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426550DA-F33E-4A53-9306-DB2032277042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426550DA-F33E-4A53-9306-DB2032277042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426550DA-F33E-4A53-9306-DB2032277042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6FFBB6-421A-4975-933D-9BF8F70728E0}
+	EndGlobalSection
+EndGlobal
